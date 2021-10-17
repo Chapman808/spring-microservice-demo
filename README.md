@@ -1,6 +1,6 @@
 # spring-microservice-demo
 
-This is a sample project to demonstrate a simplified microservice environment in Spring Boot. 
+This is a sample project to demonstrate a simplified microservice environment in Spring Boot, using Apache Kafka for messaging. This project is part of the following presentation: https://docs.google.com/presentation/d/1CXBm5D6BGwHfTim-qlK74YnhkswI0bzDjLMs66InrBs/edit?usp=sharing
 
 ## The Message Find/Replace Application
 
